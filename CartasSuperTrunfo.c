@@ -2,8 +2,8 @@
 
 int main() {
     // Declaração das variáveis
-    char carta1[4];
-    char carta2[4];
+    char carta1[3];
+    char carta2[3];
     int populacao1, populacao2;
     int pontos_turisticos1, pontos_turisticos2;
     float area1, area2;
